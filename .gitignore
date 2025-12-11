@@ -1,0 +1,25 @@
+# Ignorar archivos Python compilados
+*.pyc
+__pycache__/
+
+# Entornos de Python
+.env
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Archivos sensibles o locales
+.env.local
+config.json
+
+# Logs
+*.log
+logs/
+
+*.ipynb
+
+*.mp4
+*.gif
+*.txt
